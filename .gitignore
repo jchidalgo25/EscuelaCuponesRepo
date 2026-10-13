@@ -21,6 +21,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Configuración local de Obsidian (contiene API key)
-.claude/obsidian.env
